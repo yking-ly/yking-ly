@@ -43,7 +43,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yking-ly&show_icons=true&hide_border=true&border_radius=15&bg_color=13001F&title_color=BD34FE&icon_color=BD34FE&text_color=ffffff&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yking-ly&show_icons=true&hide_border=true&border_radius=15&bg_color=13001F&title_color=BD34FE&icon_color=BD34FE&text_color=ffffff&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
 
 <br/><br/>
 
