@@ -1,185 +1,51 @@
 <div align="center">
 
-<!-- Wavy Top Border -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=twinkling" width="100%"/>
-
-</div>
-
-<!-- Left Wavy Border -->
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="20" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=1500&section=header&reversal=false&textBg=false" width="20"/>
-</td>
-<td>
-
-<div align="center">
-
-<!-- Profile Section -->
-<img src="assets/profile.png" alt="Yash Kotian" width="200" style="border-radius: 20px; margin: 20px;"/>
-
-# 👋 Hi, I'm Yash "yking" Kotian
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;AI%2FML+Enthusiast;Blockchain+Developer)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="[your-resume-link]">
-    <img src="https://img.shields.io/badge/📄_Resume-4A90E2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="[your-linkedin-link]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="[your-codechef-link]">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Tech Stack Section -->
-## 🚀 Tech Stack
-
-```text
-Backend  ◆  AI/ML  ◆  Blockchain
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask" alt="Backend"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI/ML"/>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,web3" alt="Blockchain"/>
-</p>
-
-<br/>
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yking-cotian&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yking-cotian&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" alt="GitHub Stats" width="49%"/>
-</div>
-
-<br/>
-
-<!-- GitHub Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yking-cotian&theme=tokyo-night&hide_border=true&border_radius=15&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" width="98%"/>
-</div>
-
-<br/>
-
-<!-- Most Used Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yking-cotian&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" alt="Top Languages" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yking-cotian&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%"/>
-</div>
-
-<br/>
-
-<!-- Profile Views Counter -->
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yking-cotian&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/yking-cotian?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers"/>
-</p>
-
-<br/>
-
-<!-- Activity Section -->
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br/>
-
-<!-- Connect With Me -->
-## 💬 Let's Connect!
-
-<p align="center">
-  <i>I'm always open to interesting conversations and collaboration opportunities!</i>
-</p>
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="[your-twitter-link]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="[your-discord-link]">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Current Focus -->
-## 🎯 Current Focus
-
-```javascript
-const yash = {
-    code: ["Python", "JavaScript", "Solidity", "TypeScript"],
-    technologies: {
-        backend: ["Node.js", "Django", "Flask", "Express"],
-        aiml: ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
-        blockchain: ["Ethereum", "Web3.js", "Smart Contracts"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "Git"]
-    },
-    currentFocus: "Building AI-powered blockchain solutions",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-<br/>
-
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yking-cotian&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yking-cotian/yking-cotian/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yking-cotian/yking-cotian/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yking-cotian/yking-cotian/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
-<!-- Random Dev Quote -->
-## 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
-<br/>
-
-</div>
-
-</td>
-<td width="20" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=1500&section=header&reversal=true&textBg=false" width="20"/>
-</td>
-</tr>
+<table border="0" width="100%">
+  <tr>
+    <td width="42%" align="center">
+      <img src="assets/profilebw.png" alt="Yash Kotian" width="340" style="border-radius: 25px; box-shadow: 0px 0px 30px rgba(189, 52, 254, 0.4);"/>
+    </td>
+    <td width="58%" align="left" style="padding-left: 30px;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=BD34FE&width=450&lines=Yash+%22yking%22+Kotian" alt="Typing SVG" />
+      </a>
+      <br /><br />
+      <a href="[your-resume-link]">
+        <img src="https://img.shields.io/badge/>_cat%20resume-13001F?style=for-the-badge&logoColor=BD34FE&labelColor=13001F&color=13001F" alt="Resume"/>
+      </a>
+      <br /><br />
+      <a href="[your-portfolio-link]">
+        <img src="https://img.shields.io/badge/>_cd%20portfolio-13001F?style=for-the-badge&logoColor=BD34FE&labelColor=13001F&color=13001F" alt="Portfolio"/>
+      </a>
+      <br /><br />
+      <a href="https://www.linkedin.com/in/yking-ly">
+        <img src="https://img.shields.io/badge/>_ssh%20linkedin-13001F?style=for-the-badge&logo=linkedin&logoColor=BD34FE&labelColor=13001F&color=13001F" alt="LinkedIn"/>
+      </a>
+      <br /><br />
+      <a href="https://www.codechef.com/users/yking_ly">
+        <img src="https://img.shields.io/badge/>_./ codechef-13001F?style=for-the-badge&logo=codechef&logoColor=BD34FE&labelColor=13001F&color=13001F" alt="CodeChef"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-<div align="center">
+<br/>
 
-<!-- Wavy Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=BD34FE&center=true&vCenter=true&width=500&lines=Backend;AI+%2F+ML;Blockchain" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yking-ly&hide_border=true&border_radius=15&bg_color=13001F&color=BD34FE&line=BD34FE&point=FFFFFF" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yking-ly&show_icons=true&hide_border=true&border_radius=15&bg_color=13001F&title_color=BD34FE&icon_color=BD34FE&text_color=ffffff&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<h3>Profile Views</h3>
+<img src="https://komarev.com/ghpvc/?username=yking-ly&label=Profile%20Views&color=BD34FE&style=for-the-badge" alt="Profile Views"/>
 
 </div>
