@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="max-width: 800px; margin: 0 auto; display: block;">
+<div style="max-width: 800px; margin: 0 auto; display: block; text-align: left;">
   <img src="assets/profilebw.png" alt="Yash Kotian" width="300" align="left" style="border-radius: 25px; box-shadow: 0px 0px 30px rgba(189, 52, 254, 0.4); margin-right: 40px; margin-bottom: 20px;" />
 
   <br />
