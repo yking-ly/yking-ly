@@ -20,7 +20,7 @@
         </a>
         <br /><br />
         <a href="https://www.linkedin.com/in/yashkotian/">
-          <img src="https://img.shields.io/badge/>_%20ssh%20linkedin%20%20-13001F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=13001F&color=13001F" alt="LinkedIn"/>
+          <img src="https://img.shields.io/badge/>_%20ssh%20linkedin%20%20-13001F?style=for-the-badge&logo=openssh&logoColor=white&labelColor=13001F&color=13001F" alt="LinkedIn"/>
         </a>
         <br /><br />
         <a href="https://leetcode.com/u/yking_ly/">
