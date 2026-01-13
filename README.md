@@ -8,11 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=BD34FE&width=400&lines=Yash+%22yking%22+Kotian" alt="Typing SVG" />
   </a>
   <br /><br />
-  <a href="[https://drive.google.com/drive/u/0/folders/1Lliv9OZ5X7FNLJi94rmFx8NnhSTbMoT5]">
+  <a href="https://drive.google.com/drive/u/0/folders/1Lliv9OZ5X7FNLJi94rmFx8NnhSTbMoT5">
     <img src="https://img.shields.io/badge/>_%20cat%20resume%20%20%20%20%20-13001F?style=for-the-badge&logo=readme&logoColor=white&labelColor=13001F&color=13001F" alt="Resume"/>
   </a>
   <br /><br />
-  <a href="[https://yashkotian.notion.site/Yash-Kotian-Portfolio-03464d5869ea443cb74e67a4b960a49d]">
+  <a href="https://yashkotian.notion.site/Yash-Kotian-Portfolio-03464d5869ea443cb74e67a4b960a49d">
     <img src="https://img.shields.io/badge/>_%20cd%20portfolio%20%20-13001F?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=13001F&color=13001F" alt="Portfolio"/>
   </a>
   <br /><br />
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/>_%20ssh%20linkedin%20%20-13001F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=13001F&color=13001F" alt="LinkedIn"/>
   </a>
   <br /><br />
-  <a href="[your-leetcode-link]">
+  <a href="https://leetcode.com/u/yking_ly/">
     <img src="https://img.shields.io/badge/>_%20gcc%20leetcode%20%20-13001F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=13001F&color=13001F" alt="LeetCode"/>
   </a>
   <br /><br />
