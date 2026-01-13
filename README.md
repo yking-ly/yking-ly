@@ -1,36 +1,35 @@
 <div align="center">
 
-<div style="display: block; overflow: hidden;">
-  <img src="assets/profilebw.png" alt="Yash Kotian" width="380" align="left" style="border-radius: 25px; box-shadow: 0px 0px 30px rgba(189, 52, 254, 0.4); margin-right: 30px; margin-bottom: 20px;" />
+<div style="max-width: 800px; margin: 0 auto; display: block;">
+  <img src="assets/profilebw.png" alt="Yash Kotian" width="300" align="left" style="border-radius: 25px; box-shadow: 0px 0px 30px rgba(189, 52, 254, 0.4); margin-right: 40px; margin-bottom: 20px;" />
+
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=BD34FE&width=400&lines=Yash+%22yking%22+Kotian" alt="Typing SVG" />
+  </a>
+  <br /><br />
+  <a href="[your-resume-link]">
+    <img src="https://img.shields.io/badge/>_%20cat%20resume%20%20%20%20%20-13001F?style=for-the-badge&logo=readme&logoColor=white&labelColor=13001F&color=13001F" alt="Resume"/>
+  </a>
+  <br /><br />
+  <a href="[your-portfolio-link]">
+    <img src="https://img.shields.io/badge/>_%20cd%20portfolio%20%20-13001F?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=13001F&color=13001F" alt="Portfolio"/>
+  </a>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/yking-ly">
+    <img src="https://img.shields.io/badge/>_%20ssh%20linkedin%20%20-13001F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=13001F&color=13001F" alt="LinkedIn"/>
+  </a>
+  <br /><br />
+  <a href="[your-leetcode-link]">
+    <img src="https://img.shields.io/badge/>_%20gcc%20leetcode%20%20-13001F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=13001F&color=13001F" alt="LeetCode"/>
+  </a>
+  <br /><br />
+  <a href="https://www.codechef.com/users/yking_ly">
+    <img src="https://img.shields.io/badge/>_%20./%20codechef%20%20%20%20-13001F?style=for-the-badge&logo=codechef&logoColor=white&labelColor=13001F&color=13001F" alt="CodeChef"/>
+  </a>
   
-  <div style="display: inline-block;">
-    <br />
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=BD34FE&width=450&lines=Yash+%22yking%22+Kotian" alt="Typing SVG" />
-    </a>
-    <br /><br />
-    <a href="[your-resume-link]">
-      <img src="https://img.shields.io/badge/>_%20cat%20resume%20%20%20-13001F?style=for-the-badge&logo=readme&logoColor=white&labelColor=13001F&color=13001F" alt="Resume"/>
-    </a>
-    <br /><br />
-    <a href="[your-portfolio-link]">
-      <img src="https://img.shields.io/badge/>_%20cd%20portfolio-13001F?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=13001F&color=13001F" alt="Portfolio"/>
-    </a>
-    <br /><br />
-    <a href="https://www.linkedin.com/in/yking-ly">
-      <img src="https://img.shields.io/badge/>_%20ssh%20linkedin-13001F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=13001F&color=13001F" alt="LinkedIn"/>
-    </a>
-    <br /><br />
-    <a href="[your-leetcode-link]">
-      <img src="https://img.shields.io/badge/>_%20gcc%20leetcode-13001F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=13001F&color=13001F" alt="LeetCode"/>
-    </a>
-    <br /><br />
-    <a href="https://www.codechef.com/users/yking_ly">
-      <img src="https://img.shields.io/badge/>_%20./%20codechef%20%20-13001F?style=for-the-badge&logo=codechef&logoColor=white&labelColor=13001F&color=13001F" alt="CodeChef"/>
-    </a>
-  </div>
+  <br clear="all" />
 </div>
-<br clear="all" />
 
 <br/>
 
