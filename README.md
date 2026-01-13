@@ -48,13 +48,13 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yking-ly&show_icons=true&hide_border=true&border_radius=15&bg_color=13001F&title_color=BD34FE&icon_color=BD34FE&text_color=ffffff&include_all_commits=true&count_private=true" width="49%" />
   <img src="assets/PW5.jpg" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yking-ly&show_icons=true&hide_border=true&border_radius=15&bg_color=13001F&title_color=BD34FE&icon_color=BD34FE&text_color=ffffff&include_all_commits=true&count_private=true" width="49%" />
 </p>
 
 <br/><br/>
 
-<h3>Profile Views</h3>
+
 <img src="https://komarev.com/ghpvc/?username=yking-ly&label=Profile%20Views&color=BD34FE&style=for-the-badge" alt="Profile Views"/>
 
 </div>
