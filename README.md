@@ -43,7 +43,13 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yking-ly&show_icons=true&hide_border=true&border_radius=15&bg_color=13001F&title_color=BD34FE&icon_color=BD34FE&text_color=ffffff&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yking-ly&show_icons=true&hide_border=true&border_radius=15&bg_color=13001F&title_color=BD34FE&icon_color=BD34FE&text_color=ffffff&include_all_commits=true&count_private=true" width="48%" align="left" alt="GitHub Stats"/>
+  
+  <!-- Add your second image here in assets/ -->
+  <img src="assets/PW5.jpg" width="48%" align="right" alt="Your New Image"/>
+</div>
+<br clear="all" />
 
 <br/><br/>
 
